@@ -1,0 +1,47 @@
+nav {
+    background-color: darkgrey;
+    text-align: center;
+}
+
+nav2 {
+    display:flex;
+    justify-content: center;
+    justify-content: space-around;
+    border: black 3px solid;
+}
+nav3 {
+font-size: 30px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+#image1 {
+    width: 300px;
+    height: 200px;
+}
+
+#image2 {
+    width: 300px;
+    height: 200px;
+}
+
+#image3 {
+    width: 300px;
+    height: 200px;
+}
+
+#image4 {
+    width: 300px;
+    height: 200px;
+}
+
+#inthemiddle {
+    display: flex;
+    justify-content: center;
+}
+
+#threebetween {
+    display:flex;
+    justify-content: space-between;
+}
