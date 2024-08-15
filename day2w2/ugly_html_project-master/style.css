@@ -1,0 +1,59 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 11px;
+
+}
+
+h1 {
+    background-color: #3c5aa6;
+    color: gold;
+    text-align: center;
+    padding-bottom: 7px
+}
+
+#starters_image_div {
+    text-align: center;
+}
+
+#starters_image_div img {
+    width: 250px;
+    border: #3c5aa6 3px solid;
+    padding: 3px;
+}
+
+.each_pokemon_container {
+    text-align: center;
+    padding-top: 40px;
+}
+
+.pokemon_images {
+    width: 175px;
+    height: 175px;
+}
+
+#charmander_container {
+    background-color: #fe9441;
+    border: 3px gold solid;
+    border-radius: 10px;
+    text-wrap: wrap;
+    padding: 20px;
+}
+
+#squirtle_container {
+    background-color: #85cbc0;
+    border: 3px gold solid;
+    border-radius: 10px;
+    text-wrap: wrap;
+    padding: 20px;
+    margin-bottom: 150px;
+}
+
+#bulbasaur_container {
+    background-color: #89C893;
+    border: 3px gold solid;
+    border-radius: 10px;
+    text-wrap: wrap;
+    padding: 20px;
+}
