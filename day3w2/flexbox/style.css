@@ -1,0 +1,28 @@
+body {
+    font-family: Helvetica;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 200px
+}
+
+div {
+    border: 5px solid black;
+    margin: 50px;
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  #one {
+    background-color: aqua;
+  }
+  
+  #two {
+    background-color: greenyellow;
+  }
